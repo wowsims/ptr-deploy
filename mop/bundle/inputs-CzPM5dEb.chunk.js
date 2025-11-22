@@ -1,0 +1,1 @@
+import{O as t}from"./preset_utils-BjERsXQW.chunk.js";import{L as s}from"./localization-zgIX-j3W.chunk.js";const a=()=>t({fieldName:"stanceSnapshot",label:s.t("settings_tab.other.stance_snapshot.label"),labelTooltip:s.t("settings_tab.other.stance_snapshot.tooltip")});export{a as S};

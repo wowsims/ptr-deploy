@@ -1,0 +1,1 @@
+import{P as s,T as t,i as n}from"../../../localization-zgIX-j3W.chunk.js";import{S as o,P as i}from"../../../preset_utils-BjERsXQW.chunk.js";import{R as a}from"../../../sim-CqBwoBm8.chunk.js";import"../../../inputs-pJSIaE7A.chunk.js";const r=new o,e=new i(s.RestorationDruid,r);r.raid.setPlayer(t.nextEventID(),0,e),new a(document.body,e),n();

@@ -1,0 +1,1 @@
+import{$ as o,A as r}from"./preset_utils-BjERsXQW.chunk.js";import{aG as a}from"./localization-zgIX-j3W.chunk.js";const e=()=>o({fieldName:"armor",values:[{value:a.NoArmor,tooltip:"No Inner Fire"},{actionId:r.fromSpellId(48168),value:a.InnerFire}]});export{e as A};
