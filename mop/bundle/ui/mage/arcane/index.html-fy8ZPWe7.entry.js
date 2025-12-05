@@ -1,0 +1,1 @@
+import{P as s,T as n,i as t}from"../../../localization-efQrTVzH.chunk.js";import{S as a,P as e}from"../../../preset_utils-D0KPBXib.chunk.js";import{A as o}from"../../../sim-Ccmu74pt.chunk.js";import"../../../inputs-BeEcXKGI.chunk.js";const i=new a,r=new e(s.ArcaneMage,i);i.raid.setPlayer(n.nextEventID(),0,r),new o(document.body,r),t();

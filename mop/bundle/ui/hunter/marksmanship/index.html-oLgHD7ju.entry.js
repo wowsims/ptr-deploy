@@ -1,0 +1,1 @@
+import{P as s,T as n,i as a}from"../../../localization-efQrTVzH.chunk.js";import{S as r,P as t}from"../../../preset_utils-D0KPBXib.chunk.js";import{M as e}from"../../../sim-CSUUBBAJ.chunk.js";import"../../../shared-C66jf3HL.chunk.js";const o=new r,i=new t(s.MarksmanshipHunter,o);o.raid.setPlayer(n.nextEventID(),0,i),new e(document.body,i),a();
