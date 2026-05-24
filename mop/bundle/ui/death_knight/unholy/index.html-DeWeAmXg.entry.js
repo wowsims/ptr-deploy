@@ -1,0 +1,1 @@
+import{P as s,T as n,i as t}from"../../../localization-mz931WOg.chunk.js";import{S as o,P as a}from"../../../preset_utils-DurXruFq.chunk.js";import{U as e}from"../../../sim-DM03s8Dq.chunk.js";const i=new o,r=new a(s.UnholyDeathKnight,i);i.raid.setPlayer(n.nextEventID(),0,r),new e(document.body,r),t();

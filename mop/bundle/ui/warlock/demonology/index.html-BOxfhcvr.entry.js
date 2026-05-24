@@ -1,0 +1,1 @@
+import{P as s,T as o,i as e}from"../../../localization-mz931WOg.chunk.js";import{S as n,P as t}from"../../../preset_utils-DurXruFq.chunk.js";import{D as r}from"../../../sim-BTM5p0pc.chunk.js";import"../../../presets-Cg4lyoZD.chunk.js";const a=new n,i=new t(s.DemonologyWarlock,a);a.raid.setPlayer(o.nextEventID(),0,i),new r(document.body,i),e();

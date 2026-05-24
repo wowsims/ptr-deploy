@@ -1,0 +1,1 @@
+import{P as s,T as t,i as n}from"../../../localization-mz931WOg.chunk.js";import{S as o,P as a}from"../../../preset_utils-DurXruFq.chunk.js";import{F as e}from"../../../sim-Du_VRh3Q.chunk.js";const i=new o,r=new a(s.FrostDeathKnight,i);i.raid.setPlayer(t.nextEventID(),0,r),new e(document.body,r),n();

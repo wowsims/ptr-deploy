@@ -1,0 +1,1 @@
+import{P as e,T as n,i as o}from"../../../localization-mz931WOg.chunk.js";import{S as s,P as a}from"../../../preset_utils-DurXruFq.chunk.js";import{P as r}from"../../../sim-9cJ_NH9O.chunk.js";const t=new s,i=new a(e.ProtectionWarrior,t);i.enableHealing(),t.raid.setPlayer(n.nextEventID(),0,i),new r(document.body,i),o();
